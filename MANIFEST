@@ -1,0 +1,8 @@
+Build.PL
+lib/Shell/Command.pm
+Makefile.PL
+MANIFEST
+META.yml
+README
+t/command.t
+t/exit.t

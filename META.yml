@@ -1,0 +1,16 @@
+---
+name: Shell-Command
+version: 0.01
+author: ~
+abstract: Cross-platform functions emulating common shell commands
+license: perl
+requires:
+  ExtUtils::Command: 0
+  perl: 5.6
+build_requires:
+  Test::More: 0.4
+provides:
+  Shell::Command:
+    file: lib/Shell/Command.pm
+    version: 0.01
+generated_by: Module::Build version 0.2607
