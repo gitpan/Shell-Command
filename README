@@ -1,14 +1,13 @@
-NAME
-    Shell::Command - Cross-platform functions emulating common shell
-    commands
 
-SYNOPSIS
-      use Shell::Command;
 
-      mv $old_file, $new_file;
-      cp $old_file, $new_file;
-      touch @files;
+This archive contains the distribution Shell-Command,
+version 0.05:
 
-DESCRIPTION
-    Thin wrapper around ExtUtils::Command.
+  Cross-platform functions emulating common shell commands
+
+This software is copyright (c) 2011 by Michael G Schwern.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
 
