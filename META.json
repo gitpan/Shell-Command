@@ -46,7 +46,7 @@
          "web" : "http://github.com/rafl/shell-command"
       }
    },
-   "version" : "0.05",
+   "version" : "0.06",
    "x_Dist_Zilla" : {
       "plugins" : [
          {

@@ -22,7 +22,7 @@ resources:
   bugtracker: http://rt.cpan.org/Public/Dist/Display.html?Name=Shell-Command
   homepage: http://search.cpan.org/dist/Shell-Command
   repository: git://github.com/rafl/shell-command.git
-version: 0.05
+version: 0.06
 x_Dist_Zilla:
   plugins:
     -

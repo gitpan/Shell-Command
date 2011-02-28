@@ -10,3 +10,5 @@ lib/Shell/Command.pm
 t/release-eol.t
 t/release-no-tabs.t
 t/release-pod-syntax.t
+t/shell_command.t
+t/shell_exit.t

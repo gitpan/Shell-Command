@@ -3,7 +3,7 @@ BEGIN {
   $Shell::Command::AUTHORITY = 'cpan:FLORA';
 }
 BEGIN {
-  $Shell::Command::VERSION = '0.05';
+  $Shell::Command::VERSION = '0.06';
 }
 # ABSTRACT: Cross-platform functions emulating common shell commands
 
